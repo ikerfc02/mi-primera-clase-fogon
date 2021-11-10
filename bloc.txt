@@ -1,0 +1,17 @@
+clase = fogon
+
+atributos 
+-String cocinero (fijo)
+-int grados
+-boolean On/Off
+
+metodos
+setCocinero
+ajustarTemperaturaGrados
+encenderFogon
+
+metodos2
+imprimeDatos 
+Cocinero: Antonio | Temperatura del fogon: 50º | Encendida: Sí
+estadoFogon
+El fogon actualmente esta encendida y limpia.
