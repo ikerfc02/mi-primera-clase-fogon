@@ -39,7 +39,7 @@ public class Fogon {
      
     public String returnDatos () {
         String estadoFogon;
-            estadoFogon = ("Cocinero " + (Cocinero) + " Temperatura del fogón " + (grados)
+            estadoFogon = ("Cocinero " + (Cocinero) + ". " + " Temperatura del fogón " + (grados)
         + " grados. " + " Fogon encendido: " + (encendido)  ); 
         return estadoFogon; 
         
