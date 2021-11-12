@@ -6,6 +6,11 @@ public class Fogon {
     //fogon encendido o no
     private boolean encendido;
     
+    /**
+     * El ejercicio decia que tienes que iniciar dos atributos
+     * por parametros y uno fijo.
+     * te falta por iniciar un atributo.
+     */
     public Fogon (String cocineroActual){
         Cocinero = cocineroActual;
         grados = 0;      

@@ -2,6 +2,7 @@
 comment0.target=Fogon
 comment1.params=cocineroActual
 comment1.target=Fogon(java.lang.String)
+comment1.text=\r\n\ El\ ejercicio\ decia\ que\ tienes\ que\ iniciar\ dos\ atributos\r\n\ por\ parametros\ y\ uno\ fijo.\r\n\ te\ falta\ por\ iniciar\ un\ atributo.\r\n
 comment2.params=
 comment2.target=void\ encenderFogon()
 comment3.params=
